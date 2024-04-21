@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bottom_nav_graph"
+    app:startDestination="@id/absenceGpaFragment">
+
+    <fragment
+        android:id="@+id/accountFragment"
+        android:name="com.example.ipoly.fragments.mainfragments.AccountFragment"
+        android:label="fragment_account"
+        tools:layout="@layout/fragment_account" />
+    <fragment
+        android:id="@+id/absenceGpaFragment"
+        android:name="com.example.ipoly.fragments.mainfragments.AbsenceGpaFragment"
+        android:label="fragment_absence_gpa"
+        tools:layout="@layout/fragment_absence_gpa" />
+    <fragment
+        android:id="@+id/documentFragment"
+        android:name="com.example.ipoly.fragments.mainfragments.DocumentFragment"
+        android:label="fragment_document"
+        tools:layout="@layout/fragment_document" />
+
+</navigation>

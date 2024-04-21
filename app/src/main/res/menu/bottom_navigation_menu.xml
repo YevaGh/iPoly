@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/chart"
+        android:title=""
+        android:icon="@drawable/chart_pie_svgrepo_com__2_"
+        app:destination="@+id/absenceGpaFragment"/>
+    <item
+        android:id="@+id/document"
+        android:title=""
+        android:icon="@drawable/document"
+        app:destination="@+id/documentFragment"/>
+    <item
+        android:id="@+id/account"
+        android:title=""
+        android:iconTint="#E37E05"
+        android:icon="@drawable/orange_avatar"
+        app:destination="@+id/accountFragment"/>
+</menu>

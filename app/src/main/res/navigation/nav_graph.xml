@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/splashFragment">
+
+    <fragment
+        android:id="@+id/splashFragment"
+        android:name="com.example.ipoly.fragments.SplashFragment"
+        android:label="fragment_splash"
+        tools:layout="@layout/fragment_splash" >
+        <action
+            android:id="@+id/action_splashFragment_to_loginFragment"
+            app:destination="@id/loginFragment" />
+        <action
+            android:id="@+id/action_splashFragment_to_mainFragment"
+            app:destination="@id/mainFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.example.ipoly.fragments.LoginFragment"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login" >
+        <action
+            android:id="@+id/action_loginFragment_to_mainFragment"
+            app:destination="@id/mainFragment" />
+        <action
+            android:id="@+id/action_loginFragment_to_forgetPasswordFragment"
+            app:destination="@id/forgetPasswordFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.example.ipoly.fragments.MainFragment"
+        android:label="fragment_main"
+        tools:layout="@layout/fragment_main" >
+        <action
+            android:id="@+id/action_mainFragment_to_loginFragment"
+            app:destination="@id/loginFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_createPasswordFragment"
+            app:destination="@id/createPasswordFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/forgetPasswordFragment"
+        android:name="com.example.ipoly.fragments.forgetpassword.ForgetPasswordFragment"
+        android:label="fragment_forget_password"
+        tools:layout="@layout/fragment_forget_password" >
+        <action
+            android:id="@+id/action_forgetPasswordFragment_to_loginFragment"
+            app:destination="@id/loginFragment" />
+        <action
+            android:id="@+id/action_forgetPasswordFragment_to_codeFragment"
+            app:destination="@id/codeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/codeFragment"
+        android:name="com.example.ipoly.fragments.forgetpassword.CodeFragment"
+        android:label="fragment_code"
+        tools:layout="@layout/fragment_code" >
+        <action
+            android:id="@+id/action_codeFragment_to_loginFragment"
+            app:destination="@id/loginFragment" />
+        <action
+            android:id="@+id/action_codeFragment_to_createPasswordFragment"
+            app:destination="@id/createPasswordFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/createPasswordFragment"
+        android:name="com.example.ipoly.fragments.forgetpassword.CreatePasswordFragment"
+        android:label="fragment_create_password"
+        tools:layout="@layout/fragment_create_password" >
+        <action
+            android:id="@+id/action_createPasswordFragment_to_loginFragment2"
+            app:destination="@id/loginFragment" />
+    </fragment>
+</navigation>
