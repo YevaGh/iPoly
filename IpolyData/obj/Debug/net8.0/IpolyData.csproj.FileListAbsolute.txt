@@ -1,0 +1,12 @@
+C:\Users\Yeva Ghazaryan\source\repos\Ipoly\IpolyData\bin\Debug\net8.0\IpolyData.deps.json
+C:\Users\Yeva Ghazaryan\source\repos\Ipoly\IpolyData\bin\Debug\net8.0\IpolyData.dll
+C:\Users\Yeva Ghazaryan\source\repos\Ipoly\IpolyData\bin\Debug\net8.0\IpolyData.pdb
+C:\Users\Yeva Ghazaryan\source\repos\Ipoly\IpolyData\obj\Debug\net8.0\IpolyData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yeva Ghazaryan\source\repos\Ipoly\IpolyData\obj\Debug\net8.0\IpolyData.AssemblyInfoInputs.cache
+C:\Users\Yeva Ghazaryan\source\repos\Ipoly\IpolyData\obj\Debug\net8.0\IpolyData.AssemblyInfo.cs
+C:\Users\Yeva Ghazaryan\source\repos\Ipoly\IpolyData\obj\Debug\net8.0\IpolyData.csproj.CoreCompileInputs.cache
+C:\Users\Yeva Ghazaryan\source\repos\Ipoly\IpolyData\obj\Debug\net8.0\IpolyData.dll
+C:\Users\Yeva Ghazaryan\source\repos\Ipoly\IpolyData\obj\Debug\net8.0\refint\IpolyData.dll
+C:\Users\Yeva Ghazaryan\source\repos\Ipoly\IpolyData\obj\Debug\net8.0\IpolyData.pdb
+C:\Users\Yeva Ghazaryan\source\repos\Ipoly\IpolyData\obj\Debug\net8.0\ref\IpolyData.dll
+C:\Users\Yeva Ghazaryan\source\repos\Ipoly\IpolyData\obj\Debug\net8.0\IpolyData.csproj.AssemblyReference.cache
