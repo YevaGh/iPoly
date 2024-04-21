@@ -1,0 +1,75 @@
+<body>
+  <div class="outer"></div>
+    <div class="add-user-container">
+      <h2>Նոր օգտատեր</h2>
+      <form (ngSubmit)="onSubmit()" #addUserForm="ngForm">
+
+        <label for="lastname">Դեր:</label>
+        <div class="select-container">
+          <select class="custom-select" id="selectOption">
+            <option value="option1">student</option>
+            <option value="option1">moderator</option>
+          </select>
+          <div class="select-arrow">&#9660;</div>
+        </div>
+
+        <div class="form-group">
+          <label for="name">Անուն:</label>
+          <input type="text" id="name" name="name" [(ngModel)]="user.name" required>
+        </div>
+
+        <div class="form-group">
+          <label for="lastname">Ազգանուն:</label>
+          <input type="text" id="lastname" name="lastname" [(ngModel)]="user.lastname" required>
+        </div>
+
+        <div class="form-group">
+          <label for="sex">Սեռ:</label>
+          <div class="select-container">
+            <select class="custom-select" id="selectOption">
+              <option value="option1">իգական</option>
+              <option value="option2">արական</option>
+            </select>
+            <div class="select-arrow">&#9660;</div>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label for="email">Էլ․ Փոստի Հասցե:</label>
+          <input type="email" id="email" name="email" [(ngModel)]="user.email" required>
+        </div>
+
+        <div class="form-group">
+          <label for="socqart">ՀԾՀ:</label>
+          <input type="text" id="socqart" name="socqart" [(ngModel)]="user.socqart" required>
+        </div>
+
+        <div class="form-group">
+          <label for="mobile">Հեռախոս:</label>
+          <input type="tel" id="mobile" name="mobile" [(ngModel)]="user.mobile" required>
+        </div>
+
+        <div class="form-group">
+          <label for="birthDate">Ծննդյան ամսաթիվ:</label>
+          <input type="date" id="birthDate" name="birthDate" [(ngModel)]="user.birthDate" required>
+        </div>
+
+        <div class="form-group">
+          <label for="password">Գաղտնաբառ:</label>
+          <div style="display:flex">
+            <input type="text" id="password" name="password" [(ngModel)]="user.password" required>
+            <button type="button" class="password-button" (click)="generatePass()">
+              🔐
+            </button>
+          </div>
+
+        </div>
+
+        <button type="submit" (click)="onSubmit()">Ավելացնել</button>
+
+        <app-custom-alert *ngIf="showAlert" [username]="user.email" [password]="user.password"></app-custom-alert>
+
+      </form>
+    </div>
+
+</body>

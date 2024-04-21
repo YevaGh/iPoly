@@ -1,0 +1,29 @@
+<body>
+  <div class="background-image"></div>
+
+  <header class="header" *ngIf="!isAuthenticated">
+    <h1>Հայաստանի Ազգային Պոլիտեխնիկական Համալսարան</h1>
+  </header>
+
+  <header class="header" *ngIf="isAuthenticated">
+    <h1>Հայաստանի Ազգային Պոլիտեխնիկական Համալսարան</h1>
+    <nav class="navigation">
+     <!-- <button routerLink="/main-content/home">Գլխավոր</button>-->
+      <button id="usersBtn" (click)="openAllUsersWindow()">Ուսանողներ</button>
+      <button id="addUserBtn" (click)="openAddUserWindow()">Ավելացնել օգտատեր</button>
+      <button (click)="logout()">Դուրս գալ</button>
+    </nav>
+
+  </header>
+
+  <main class="main-content">
+    <router-outlet></router-outlet>
+    <footer class="footer" *ngIf="isAuthenticated">
+      <p>Բարի գալուստ Պոլիտեխնիկական համալսարանի ներքին համակարգման կայք</p>
+
+    </footer>
+  </main>
+
+
+</body>
+

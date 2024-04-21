@@ -1,0 +1,31 @@
+
+<body>
+  <div class="login-container">
+    <h2>Մուտք գործեք</h2>
+    <form (ngSubmit)="login()">
+      <div class="form-group">
+        <label for="username">Մուտքանուն:</label>
+        <input type="text" id="username" name="username" [formControl]="usernameControl">
+        <div *ngIf="usernameControl.invalid && (usernameControl.dirty || usernameControl.touched)" class="red-note">
+          Մուտքանունը պարտադիր է
+        </div>
+      </div>
+      <div class="form-group">
+        <label for="password">Գաղտնաբառ:</label>
+        <input type="password" id="password" name="password" [formControl]="passwordControl">
+        <div *ngIf="passwordControl.invalid && (passwordControl.dirty || passwordControl.touched)" class="red-note">
+          Գաղտնաբառը պարտադիր է
+        </div>
+      </div>
+      <div *ngIf="errorMessage" class="user-not-found">
+        {{ errorMessage }}
+      </div>
+
+      <button type="submit" [disabled]="!usernameControl.valid || !passwordControl.valid">Մուտք գործել</button>
+    </form>
+  </div>
+  
+</body>
+
+
+

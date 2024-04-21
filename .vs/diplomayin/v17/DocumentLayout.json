@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yeva Ghazaryan\\source\\repos\\diplomayin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{123BAFFD-E66F-4A76-BC18-B50F36C778B3}|diplomayin\\diplomayin.esproj|c:\\users\\yeva ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\edit-student\\edit-student.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{123BAFFD-E66F-4A76-BC18-B50F36C778B3}|diplomayin\\diplomayin.esproj|solutionrelative:diplomayin\\src\\app\\edit-student\\edit-student.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123BAFFD-E66F-4A76-BC18-B50F36C778B3}|diplomayin\\diplomayin.esproj|c:\\users\\yeva ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\custom-alert\\custom-alert.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{123BAFFD-E66F-4A76-BC18-B50F36C778B3}|diplomayin\\diplomayin.esproj|solutionrelative:diplomayin\\src\\app\\custom-alert\\custom-alert.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123BAFFD-E66F-4A76-BC18-B50F36C778B3}|diplomayin\\diplomayin.esproj|c:\\users\\yeva ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\edit-student\\edit-student.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{123BAFFD-E66F-4A76-BC18-B50F36C778B3}|diplomayin\\diplomayin.esproj|solutionrelative:diplomayin\\src\\app\\edit-student\\edit-student.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123BAFFD-E66F-4A76-BC18-B50F36C778B3}|diplomayin\\diplomayin.esproj|c:\\users\\yeva ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\edit-student\\edit-student.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{123BAFFD-E66F-4A76-BC18-B50F36C778B3}|diplomayin\\diplomayin.esproj|solutionrelative:diplomayin\\src\\app\\edit-student\\edit-student.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123BAFFD-E66F-4A76-BC18-B50F36C778B3}|diplomayin\\diplomayin.esproj|c:\\users\\yeva ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\add-user\\add-user.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{123BAFFD-E66F-4A76-BC18-B50F36C778B3}|diplomayin\\diplomayin.esproj|solutionrelative:diplomayin\\src\\app\\add-user\\add-user.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123BAFFD-E66F-4A76-BC18-B50F36C778B3}|diplomayin\\diplomayin.esproj|c:\\users\\yeva ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\custom-alert\\custom-alert.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{123BAFFD-E66F-4A76-BC18-B50F36C778B3}|diplomayin\\diplomayin.esproj|solutionrelative:diplomayin\\src\\app\\custom-alert\\custom-alert.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123BAFFD-E66F-4A76-BC18-B50F36C778B3}|diplomayin\\diplomayin.esproj|c:\\users\\yeva ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\users-page\\users-page.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{123BAFFD-E66F-4A76-BC18-B50F36C778B3}|diplomayin\\diplomayin.esproj|solutionrelative:diplomayin\\src\\app\\users-page\\users-page.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123BAFFD-E66F-4A76-BC18-B50F36C778B3}|diplomayin\\diplomayin.esproj|c:\\users\\yeva ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\custom-alert\\custom-alert.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{123BAFFD-E66F-4A76-BC18-B50F36C778B3}|diplomayin\\diplomayin.esproj|solutionrelative:diplomayin\\src\\app\\custom-alert\\custom-alert.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123BAFFD-E66F-4A76-BC18-B50F36C778B3}|diplomayin\\diplomayin.esproj|c:\\users\\yeva ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\add-user\\add-user.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{123BAFFD-E66F-4A76-BC18-B50F36C778B3}|diplomayin\\diplomayin.esproj|solutionrelative:diplomayin\\src\\app\\add-user\\add-user.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123BAFFD-E66F-4A76-BC18-B50F36C778B3}|diplomayin\\diplomayin.esproj|c:\\users\\yeva ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\add-user\\add-user.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{123BAFFD-E66F-4A76-BC18-B50F36C778B3}|diplomayin\\diplomayin.esproj|solutionrelative:diplomayin\\src\\app\\add-user\\add-user.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123BAFFD-E66F-4A76-BC18-B50F36C778B3}|diplomayin\\diplomayin.esproj|c:\\users\\yeva ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\users-page\\users-page.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{123BAFFD-E66F-4A76-BC18-B50F36C778B3}|diplomayin\\diplomayin.esproj|solutionrelative:diplomayin\\src\\app\\users-page\\users-page.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123BAFFD-E66F-4A76-BC18-B50F36C778B3}|diplomayin\\diplomayin.esproj|c:\\users\\yeva ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{123BAFFD-E66F-4A76-BC18-B50F36C778B3}|diplomayin\\diplomayin.esproj|solutionrelative:diplomayin\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123BAFFD-E66F-4A76-BC18-B50F36C778B3}|diplomayin\\diplomayin.esproj|c:\\users\\yeva ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{123BAFFD-E66F-4A76-BC18-B50F36C778B3}|diplomayin\\diplomayin.esproj|solutionrelative:diplomayin\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123BAFFD-E66F-4A76-BC18-B50F36C778B3}|diplomayin\\diplomayin.esproj|c:\\users\\yeva ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{123BAFFD-E66F-4A76-BC18-B50F36C778B3}|diplomayin\\diplomayin.esproj|solutionrelative:diplomayin\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123BAFFD-E66F-4A76-BC18-B50F36C778B3}|diplomayin\\diplomayin.esproj|c:\\users\\yeva ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{123BAFFD-E66F-4A76-BC18-B50F36C778B3}|diplomayin\\diplomayin.esproj|solutionrelative:diplomayin\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "custom-alert.component.ts",
+              "DocumentMoniker": "C:\\Users\\Yeva Ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\custom-alert\\custom-alert.component.ts",
+              "RelativeDocumentMoniker": "diplomayin\\src\\app\\custom-alert\\custom-alert.component.ts",
+              "ToolTip": "C:\\Users\\Yeva Ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\custom-alert\\custom-alert.component.ts",
+              "RelativeToolTip": "diplomayin\\src\\app\\custom-alert\\custom-alert.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-21T16:15:15.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "users-page.component.ts",
+              "DocumentMoniker": "C:\\Users\\Yeva Ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\users-page\\users-page.component.ts",
+              "RelativeDocumentMoniker": "diplomayin\\src\\app\\users-page\\users-page.component.ts",
+              "ToolTip": "C:\\Users\\Yeva Ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\users-page\\users-page.component.ts",
+              "RelativeToolTip": "diplomayin\\src\\app\\users-page\\users-page.component.ts",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-21T16:13:55.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "login.component.html",
+              "DocumentMoniker": "C:\\Users\\Yeva Ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\login\\login.component.html",
+              "RelativeDocumentMoniker": "diplomayin\\src\\app\\login\\login.component.html",
+              "ToolTip": "C:\\Users\\Yeva Ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\login\\login.component.html",
+              "RelativeToolTip": "diplomayin\\src\\app\\login\\login.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-21T16:11:31.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "login.component.ts",
+              "DocumentMoniker": "C:\\Users\\Yeva Ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\login\\login.component.ts",
+              "RelativeDocumentMoniker": "diplomayin\\src\\app\\login\\login.component.ts",
+              "ToolTip": "C:\\Users\\Yeva Ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\login\\login.component.ts",
+              "RelativeToolTip": "diplomayin\\src\\app\\login\\login.component.ts",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-21T16:11:01.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\Yeva Ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "diplomayin\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\Yeva Ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "diplomayin\\src\\app\\app-routing.module.ts",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-21T16:10:35.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Yeva Ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "diplomayin\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Yeva Ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\app.module.ts",
+              "RelativeToolTip": "diplomayin\\src\\app\\app.module.ts",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-21T16:10:31.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "users-page.component.html",
+              "DocumentMoniker": "C:\\Users\\Yeva Ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\users-page\\users-page.component.html",
+              "RelativeDocumentMoniker": "diplomayin\\src\\app\\users-page\\users-page.component.html",
+              "ToolTip": "C:\\Users\\Yeva Ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\users-page\\users-page.component.html",
+              "RelativeToolTip": "diplomayin\\src\\app\\users-page\\users-page.component.html",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-21T16:09:23.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "add-user.component.ts",
+              "DocumentMoniker": "C:\\Users\\Yeva Ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\add-user\\add-user.component.ts",
+              "RelativeDocumentMoniker": "diplomayin\\src\\app\\add-user\\add-user.component.ts",
+              "ToolTip": "C:\\Users\\Yeva Ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\add-user\\add-user.component.ts",
+              "RelativeToolTip": "diplomayin\\src\\app\\add-user\\add-user.component.ts",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-21T15:59:33.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "custom-alert.component.html",
+              "DocumentMoniker": "C:\\Users\\Yeva Ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\custom-alert\\custom-alert.component.html",
+              "RelativeDocumentMoniker": "diplomayin\\src\\app\\custom-alert\\custom-alert.component.html",
+              "ToolTip": "C:\\Users\\Yeva Ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\custom-alert\\custom-alert.component.html",
+              "RelativeToolTip": "diplomayin\\src\\app\\custom-alert\\custom-alert.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-21T16:08:04.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "custom-alert.component.css",
+              "DocumentMoniker": "C:\\Users\\Yeva Ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\custom-alert\\custom-alert.component.css",
+              "RelativeDocumentMoniker": "diplomayin\\src\\app\\custom-alert\\custom-alert.component.css",
+              "ToolTip": "C:\\Users\\Yeva Ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\custom-alert\\custom-alert.component.css",
+              "RelativeToolTip": "diplomayin\\src\\app\\custom-alert\\custom-alert.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-21T16:08:01.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "add-user.component.css",
+              "DocumentMoniker": "C:\\Users\\Yeva Ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\add-user\\add-user.component.css",
+              "RelativeDocumentMoniker": "diplomayin\\src\\app\\add-user\\add-user.component.css",
+              "ToolTip": "C:\\Users\\Yeva Ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\add-user\\add-user.component.css",
+              "RelativeToolTip": "diplomayin\\src\\app\\add-user\\add-user.component.css",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAwwHMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-21T16:07:41.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "edit-student.component.css",
+              "DocumentMoniker": "C:\\Users\\Yeva Ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\edit-student\\edit-student.component.css",
+              "RelativeDocumentMoniker": "diplomayin\\src\\app\\edit-student\\edit-student.component.css",
+              "ToolTip": "C:\\Users\\Yeva Ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\edit-student\\edit-student.component.css",
+              "RelativeToolTip": "diplomayin\\src\\app\\edit-student\\edit-student.component.css",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAwwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-21T16:07:33.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "edit-student.component.ts",
+              "DocumentMoniker": "C:\\Users\\Yeva Ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\edit-student\\edit-student.component.ts",
+              "RelativeDocumentMoniker": "diplomayin\\src\\app\\edit-student\\edit-student.component.ts",
+              "ToolTip": "C:\\Users\\Yeva Ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\edit-student\\edit-student.component.ts",
+              "RelativeToolTip": "diplomayin\\src\\app\\edit-student\\edit-student.component.ts",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-21T15:59:38.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "add-user.component.html",
+              "DocumentMoniker": "C:\\Users\\Yeva Ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\add-user\\add-user.component.html",
+              "RelativeDocumentMoniker": "diplomayin\\src\\app\\add-user\\add-user.component.html",
+              "ToolTip": "C:\\Users\\Yeva Ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\add-user\\add-user.component.html",
+              "RelativeToolTip": "diplomayin\\src\\app\\add-user\\add-user.component.html",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAowEUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-21T15:53:32.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "edit-student.component.html",
+              "DocumentMoniker": "C:\\Users\\Yeva Ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\edit-student\\edit-student.component.html",
+              "RelativeDocumentMoniker": "diplomayin\\src\\app\\edit-student\\edit-student.component.html",
+              "ToolTip": "C:\\Users\\Yeva Ghazaryan\\source\\repos\\diplomayin\\diplomayin\\src\\app\\edit-student\\edit-student.component.html",
+              "RelativeToolTip": "diplomayin\\src\\app\\edit-student\\edit-student.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-20T23:40:28.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
